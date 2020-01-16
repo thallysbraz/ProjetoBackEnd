@@ -697,7 +697,7 @@ module.exports = connection;
 
 # Conexão com Mongodb usando mongoose
 
-<p align="justify">Lembre de importa a biblioteca Mongoose com o comando:</p>
+<p align="justify">Lembre de importa a biblioteca [Mongoose](https://github.com/thallysbraz/ProjetoBackEnd) com o comando:</p>
 
 ```bash
 npm install --save mongoose
