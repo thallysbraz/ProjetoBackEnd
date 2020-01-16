@@ -636,8 +636,6 @@ To run e.g. the first example:
 node examples/app1
 ```
 
-# ------------------------------------------
-
 # Conexão com MySQL
 
 ```bash
