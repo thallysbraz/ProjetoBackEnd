@@ -1,3 +1,9 @@
+# Versionamento
+
+|    Data    |    Autor     | Versão |
+| :--------: | :----------: | :----: |
+| 16/01/2020 | Thallys Braz |  1.0   |
+
 # Conexão com SAP HANA
 
 **Only critical fixes will be provided in hdb. Please continue using the new hana-client ([documentation](https://help.sap.com/viewer/0eec0d68141541d1b07893a39944924e/2.0.02/en-US/58c18548dab04a438a0f9c44be82b6cd.html)).**
