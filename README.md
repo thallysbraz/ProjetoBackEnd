@@ -1,8 +1,8 @@
 # Versionamento
 
-|    Data    |    Autor     | Versão |
-| :--------: | :----------: | :----: |
-| 16/01/2020 | Thallys Braz |  1.0   |
+|    Data    |                     Autor                      | Versão |
+| :--------: | :--------------------------------------------: | :----: |
+| 16/01/2020 | [Thallys Braz](https://github.com/thallysbraz) |  1.0   |
 
 # Conexão com SAP HANA
 
@@ -675,7 +675,7 @@ con.end((err) => {
 
 # Conexão com MySQL usando Sequelize
 
-<p align="justify">Lembre de importa as bibliotecas Sequelize e Mysql2 com os comandos </p>
+Lembre de importa as bibliotecas [Sequelize](https://sequelize.org/) e [Mysql2](https://www.npmjs.com/package/mysql2) com os comandos:
 
 ```bash
 npm install --save sequelize
@@ -703,7 +703,7 @@ module.exports = connection;
 
 # Conexão com Mongodb usando mongoose
 
-<p align="justify">Lembre de importa a biblioteca [Mongoose](https://github.com/thallysbraz/ProjetoBackEnd) com o comando:</p>
+Lembre de importa a biblioteca [Mongoose](https://mongoosejs.com/) comando:</p>
 
 ```bash
 npm install --save mongoose
